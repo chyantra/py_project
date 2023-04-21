@@ -1,3 +1,3 @@
 import funcs
 
-funcs.sum(a,b)
+funcs.subtraction(a,b)
